@@ -1,1 +1,2 @@
 http://backend.course#yuliiakrykhovets
+http://backend.course?name=%22Krykhovets%20Yuliia%22&github_name=yuliiakrykhovets&group=%22%D0%A4%D0%95%D0%86-21%D1%81%22&subgroup=%22%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%202%22
